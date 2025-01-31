@@ -1,8 +1,9 @@
 # SARIF Compare
 
-A powerful web application for analyzing and comparing SARIF (Static Analysis Results Interchange Format) files. This tool helps developers and security teams visualize, analyze, and compare results from different static analysis tools or multiple scans.
+A web application (available here: https://sarif-comparer.netlify.app/) for analyzing and comparing SARIF (Static Analysis Results Interchange Format) files. This tool helps developers and security teams visualize, analyze, and compare results from different static analysis tools or multiple scans.
 
-![SARIF Compare Screenshot](https://images.unsplash.com/photo-1551288049-bebda4e38f71?auto=format&fit=crop&q=80&w=2000)
+<img width="783" alt="Screenshot 2025-01-31 at 11 27 59" src="https://github.com/user-attachments/assets/d6183553-e8b4-418c-841b-6c39e020d66e" />
+
 
 ## Features
 
